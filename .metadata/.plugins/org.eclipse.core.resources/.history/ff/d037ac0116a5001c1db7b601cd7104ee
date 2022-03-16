@@ -1,0 +1,10 @@
+package javaDate;
+
+public class JavaSimpleDateFormat {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
